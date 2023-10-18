@@ -1,4 +1,8 @@
-body{font-size: 16px;
-text-align: center;
-background-color: tomato;}
-.negrito{color:red;}
+body{font-size: 16px;}
+
+
+.negrito{color: red;}
+.imagem{width: 100%;}
+.principal{background-color: gray;text-align: center;}
+.beneficios{text-align: center;}
+.img-beneficios{width: 100%;}
